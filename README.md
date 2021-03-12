@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VeVeBoi
+- 👀 I’m interested in Machine learning and applications development
+- 🌱 I’m currently learning Functional programming and application developlemt
+- 📫 How to reach me Vedad.coric.veveboy@gmail.com
