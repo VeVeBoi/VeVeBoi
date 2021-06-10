@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @VeVeBoi
 - 👀 I’m interested in Machine learning and applications development
-- 🌱 I’m currently learning Functional programming, application developlemt and industrial economics
+- 🌱 I’m currently learning AI, functional programing, discrete mathematics, Database (noSQL, SQL and more)
 - 📫 How to reach me vedad.coric@hotmail.com
