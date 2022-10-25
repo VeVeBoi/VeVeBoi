@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VeVeBoi
-- 👀 I’m interested in Machine learning, Data analytics and applications / software development
+- 👀 I’m interested in Machine learning, Data analytics, Parallel programming, high perfromance systems and applications / software development
 - 🌱 I’m currently learning AI, Deep learning, functional programing, Database *(noSQL, mySQL and more)*, Data analytics, Data filtration, PHP, CSS, HTML, REACT and more
 - 💼 Studying at TUM Germany*(Masters in Computer science)*
 - 📫 How to reach me vedad.coric@hotmail.com
